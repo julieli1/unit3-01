@@ -1,0 +1,13 @@
+#body {
+  background-color: #FAF5C5;
+}
+
+#titre {
+  text-align: center;
+  border-style: dashed;
+  border-color: black;
+}
+
+#titrenodeux {
+  text-align: center;
+}
