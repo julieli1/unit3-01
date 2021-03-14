@@ -1,5 +1,5 @@
 #body {
-  background-color: #FAF5C5;
+  background-color: #faf5c5;
 }
 
 #titre {
@@ -14,7 +14,7 @@
 }
 
 #clickhere {
-  background-color:blanchedalmond;
+  background-color: blanchedalmond;
   font-family: cursive;
   text-align: center;
   display: block;
@@ -24,7 +24,7 @@
 }
 
 #lemon {
-  background-color: #DBC6C5;
+  background-color: #dbc6c5;
 }
 
 #honey {
@@ -43,7 +43,7 @@
 }
 
 .directions {
-  font-family: times new roman;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 110%;
 }
 
