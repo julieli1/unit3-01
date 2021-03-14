@@ -10,4 +10,47 @@
 
 #titrenodeux {
   text-align: center;
+  font-family: fantasy;
+}
+
+#clickhere {
+  background-color:blanchedalmond;
+  font-family: cursive;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#lemon {
+  background-color: #DBC6C5;
+}
+
+#honey {
+  color: #6e4745;
+  text-align: center;
+  border-style: double;
+}
+
+#funtimes {
+  color: #6e4745;
+  text-align: center;
+}
+
+.ingredients {
+  border-style: solid;
+}
+
+.directions {
+  font-family: times new roman;
+  font-size: 110%;
+}
+
+#clickheretoo {
+  color: #6e4745;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
